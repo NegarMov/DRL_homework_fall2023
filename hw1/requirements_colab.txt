@@ -1,5 +1,5 @@
 numpy==1.23.5
-mujoco
+mujoco==2.3.3
 gym==0.25.2
 tensorboardX==2.5.1
 moviepy==1.0.3
